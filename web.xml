@@ -1,0 +1,9 @@
+<servlet>
+	<servlet-name>Helloworld</servlet-name>
+	<servlet-class>Helloworld</servlet-class>
+</servlet>
+<servlet-mapping>
+	<servlet-name>Helloworld</servlet-name>
+	<url-pattern>/lihaiyan</url-pattern>
+</servlet-mapping>
+
